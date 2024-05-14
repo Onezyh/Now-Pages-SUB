@@ -1,107 +1,20 @@
-# 反代优选域名：
-ADD:
-acjp2.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+# 优选节点生成器 Now-Pages-SUB
 
-acsg.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+### 全新的通过 Cloudflare Pages 搭建免费节点，自动生成优选线路节点内容生成器
 
-acsg3.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+**Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)    Telegram全能搜索：[@BingCN](https://t.me/BingCN)**
 
-bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
+### 免责声明
 
-bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
+本声明适用于 GitHub 上的 “Edgetunnel” 项目（以下简称“该项目”），项目链接为：
+[https://edgetunnel.github.io/edgetunnel/](https://github.com/cmliu/edgetunnel)
 
-cfip.xxxxxxxx.tk#官方优选域名-OTC大佬提供维护
+https://github.com/cmliu/WorkerVless2sub/tree/main
 
-proxy.xxxxxxxx.tk#反代优选域名-OTC大佬提供维护
+该项目为Edgetunnel项目的克隆整理及备份，原作者享有本项目内容的所有权；
+该项目被设计和开发仅供学习、研究和安全测试目的。
+它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
 
-acjp2.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+# 部署方法 [关注博主](https://www.youtube.com/@onezyhcn)
+# 本文部署视频教程 [关注博主](https://youtu.be/FHFd5h5Ag5I)
 
-acsg.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
-
-acsg3.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
-
-xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
-
-cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
-
-cdn-b100.xn--b6gac.eu.org#cdn-b100.↗↘↗.eu.org反代优选域名
-
-time.cloudflare.com#YouTube&资源核  https://t.me/OneZyhCN
-
-shopify.com#YouTube&资源核  https://t.me/OneZyhCN
-
-time.is#YouTube&资源核  https://t.me/OneZyhCN
-
-icook.hk#YouTube&资源核  https://t.me/OneZyhCN
-
-icook.tw#YouTube&资源核  https://t.me/OneZyhCN
-
-ip.sb#YouTube&资源核  https://t.me/OneZyhCN
-
-japan.com#YouTube&资源核  https://t.me/OneZyhCN
-
-malaysia.com#YouTube&资源核  https://t.me/OneZyhCN
-
-russia.com#YouTube&资源核  https://t.me/OneZyhCN
-
-singapore.com#YouTube&资源核  https://t.me/OneZyhCN
-
-skk.moe#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visa.com#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visa.com.sg#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visa.com.hk#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visa.com.tw#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visa.co.jp#YouTube&资源核  https://t.me/OneZyhCN
-
-www.visakorea.com#YouTube&资源核  https://t.me/OneZyhCN
-
-www.gco.gov.qa#YouTube&资源核  https://t.me/OneZyhCN
-
-www.gov.se#YouTube&资源核  https://t.me/OneZyhCN
-www.gov.ua#YouTube&资源核  https://t.me/OneZyhCN
-www.digitalocean.com#YouTube&资源核  https://t.me/OneZyhCN
-www.csgo.com#YouTube&资源核  https://t.me/OneZyhCN
-www.shopify.com#YouTube&资源核  https://t.me/OneZyhCN
-www.whoer.net#YouTube&资源核  https://t.me/OneZyhCN
-www.whatismyip.com#YouTube&资源核  https://t.me/OneZyhCN
-www.ipget.net#YouTube&资源核  https://t.me/OneZyhCN
-www.hugedomains.com#YouTube&资源核  https://t.me/OneZyhCN
-www.udacity.com#YouTube&资源核  https://t.me/OneZyhCN
-www.4chan.org#YouTube&资源核  https://t.me/OneZyhCN
-www.okcupid.com#YouTube&资源核  https://t.me/OneZyhCN
-www.glassdoor.com#YouTube&资源核  https://t.me/OneZyhCN
-www.udemy.com#YouTube&资源核  https://t.me/OneZyhCN
-alejandracaiccedo.com#YouTube&资源核  https://t.me/OneZyhCN
-nc.gocada.co#YouTube&资源核  https://t.me/OneZyhCN
-log.bpminecraft.com#YouTube&资源核  https://t.me/OneZyhCN
-www.boba88slot.com#YouTube&资源核  https://t.me/OneZyhCN
-gur.gov.ua#YouTube&资源核  https://t.me/OneZyhCN
-www.zsu.gov.ua#YouTube&资源核  https://t.me/OneZyhCN
-www.iakeys.com#YouTube&资源核  https://t.me/OneZyhCN
-www.d-555.com#YouTube&资源核  https://t.me/OneZyhCN
-fbi.gov#YouTube&资源核  https://t.me/OneZyhCN
-wz.weishao2023.dk.eu.org#YouTube&资源核  https://t.me/OneZyhCN
-cloudflare.cfgo.cc#YouTube&资源核  https://t.me/OneZyhCN
-086181.xyz#YouTube&资源核  https://t.me/OneZyhCN
-stock.hostmonit.com#YouTube&资源核  https://t.me/OneZyhCN
-www.lyzdzy.com#YouTube&资源核  https://t.me/OneZyhCN
-xs.wxtv.cc#YouTube&资源核  https://t.me/OneZyhCN
-cf.zmdhc.com#YouTube&资源核  https://t.me/OneZyhCN
-www.90dushu.com#YouTube&资源核  https://t.me/OneZyhCN
-www.tushencn.com#YouTube&资源核  https://t.me/OneZyhCN
-7sc.cc#YouTube&资源核  https://t.me/OneZyhCN
-0550cq.com#YouTube&资源核  https://t.me/OneZyhCN
-www.xinpian8.com#YouTube&资源核  https://t.me/OneZyhCN
-www.c333.net#YouTube&资源核  https://t.me/OneZyhCN
-www.7749tv.com#YouTube&资源核  https://t.me/OneZyhCN
-www.888dyy.cc#YouTube&资源核  https://t.me/OneZyhCN
-manmankan.cc#YouTube&资源核  https://t.me/OneZyhCN
-www.ddwhm.com#YouTube&资源核  https://t.me/OneZyhCN
-
-ADDPAI:
-https://ipdb.api.030101.xyz/?type=bestproxy&country=true
