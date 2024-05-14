@@ -1,36 +1,67 @@
 # 反代优选域名：
 ADD:
 acjp2.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+
 acsg.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+
 acsg3.cloudflarest.link#YouTube&资源核  https://t.me/OneZyhCN
+
 bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
+
 bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
+
 cfip.xxxxxxxx.tk#官方优选域名-OTC大佬提供维护
+
 proxy.xxxxxxxx.tk#反代优选域名-OTC大佬提供维护
+
 acjp2.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+
 acsg.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+
 acsg3.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+
 xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
+
 cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
+
 cdn-b100.xn--b6gac.eu.org#cdn-b100.↗↘↗.eu.org反代优选域名
+
 time.cloudflare.com#YouTube&资源核  https://t.me/OneZyhCN
+
 shopify.com#YouTube&资源核  https://t.me/OneZyhCN
+
 time.is#YouTube&资源核  https://t.me/OneZyhCN
+
 icook.hk#YouTube&资源核  https://t.me/OneZyhCN
+
 icook.tw#YouTube&资源核  https://t.me/OneZyhCN
+
 ip.sb#YouTube&资源核  https://t.me/OneZyhCN
+
 japan.com#YouTube&资源核  https://t.me/OneZyhCN
+
 malaysia.com#YouTube&资源核  https://t.me/OneZyhCN
+
 russia.com#YouTube&资源核  https://t.me/OneZyhCN
+
 singapore.com#YouTube&资源核  https://t.me/OneZyhCN
+
 skk.moe#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visa.com#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visa.com.sg#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visa.com.hk#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visa.com.tw#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visa.co.jp#YouTube&资源核  https://t.me/OneZyhCN
+
 www.visakorea.com#YouTube&资源核  https://t.me/OneZyhCN
+
 www.gco.gov.qa#YouTube&资源核  https://t.me/OneZyhCN
+
 www.gov.se#YouTube&资源核  https://t.me/OneZyhCN
 www.gov.ua#YouTube&资源核  https://t.me/OneZyhCN
 www.digitalocean.com#YouTube&资源核  https://t.me/OneZyhCN
